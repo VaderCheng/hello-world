@@ -1,4 +1,3 @@
 # hello-world
-I am VaderCheng~
-I want to be her sword, mirror and shield.
+I am VaderCheng.
 To infinity and beyond.
